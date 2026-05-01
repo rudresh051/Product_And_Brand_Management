@@ -1,51 +1,76 @@
-# Defining Product
+# Lecture 02 : Defining Product
 
-* "A man is but the product of his thoughts. What he thinks, He becomes"
-  * A product probably is the reflection of a man's thought or a human's thought, that human can be seen as the creator of that product or the originator of that product
-* The product can be seen with the prespective of reflection of it's customers as well
-  * How customer wants to look at the products?
-* "The end-product of education should be a free creative man, who can battle against historical circumstances and adversities of nature" ~ Dr Sarvepalli Radhakrishnan
-  * intellect, personality, persona
-  * professional capabilities
-  * Education institution - A raw student seeking information knowledge capability comes and then whole of the system supports that student to become a professionally capable individual
-  * to develop professional capabilites of student which can be utilized for further development and other forms of contributions for several organizations or economies at large
-  * Look at yourself as a resource which would be contributing somewhere and so on.
+Example - House
 
-Example 1 -
-
-![alt text](image.png)
-
-> Is barbie actually only a toy? or is shea a part of a young girl , mind and personality?
-
-Example 2 - House
-
-Example 3 - 
-
-![alt text](image-1.png)
-
-Example 4 - IKEA furniture - Billy Bookcase
-
-![alt text](image-2.png)
-
-> It becomes a part of life and after sometime we stop noticing that. But if you eliminate that product from that particular space which it has occupied for quite some-time , that what happens? would you feel the vacuum? that is where it becomes part of your life
-
-Example 5 - Tea
-
-![alt text](image-3.png)
-
-> when you feel like I am unable to think further, you go to your kitchen, you start preparing your favorite tea, and when you start pouring that and you know the aroma comes in and at that particular moment you feel like talking to your tea and you know how much to pour in.
+> How special a house is for an individual who would have constructed it by himself, definitely with the help of so many people
 
 
-![alt text](image-4.png)
+![alt text](image-8.png)
 
-![alt text](image-5.png)
+> People get very different kinds of houses constructed for themselves wherein every house is the reflection of the thought process of the owner as well as the architect
 
-> Gifting your pen to your friend or colleague is a very respectable thing. I feel utmost respect for you and I am giving you one of my most important things basically
+Example - Pillow
+
+![alt text](image-9.png)
+
+Example - Jacket, Sneakers, burger , donut
+
+![alt text](image-10.png)
+
+* **Product Defintion**
+![alt text](image-11.png)
+
+* **How a product becomes a brand?**
+
+![alt text](image-14.png)
 
 
-![alt text](image-6.png)
+* Example - 
+*  Despite of the fact that some products are generic they are known by people in their own language, but still that particular connotation becomes a brand in itself.
+*  For example - a professor who teaches local students is locally so well known, that students always attend their classes to for example - pass a competitive examination
 
-> JK Rowling has taken you through so many things. Sometimes books are just being products but are so important that you keep those books for life with you.
+* Search engine becomes google
+* A mobile phone when becomes an apple
+* Ultimately every marketer has a dream of taking his or her product to become a brand an intense part of people's lives
+
+![alt text](image-13.png)
+
+> Book - Strategic brand management - By Kevin Lynn keller
+
+> An element of personality is associated with all those examples
+
+> For example we talk about some products with the perspective of being lovable, sometime beautiful or call them admirable
+> > This book is so admirable
+
+* You see that expression about a product is related to that product possessing a personality carrying a personality
+
+![alt text](image-15.png)
+
+> How many times do you let someone else touch your mobile phone?  
+> Your laptop - it is associated with all your collections of documents, passwords, your site linkages. your habits can be expressed by your mobile phone and your laptop. That is how profiling of customers is being done nowdays
 
 
-![alt text](image-7.png)
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
+
+## Persona
+
+![alt text](image-19.png)
+
+> Persona is related to represenation, basically how you want yourself to be expressed and seen
+> How marketers look at their customers, how they want to be seen and then those marketers put up the products to resonate with that thought process of the customer so that products reflects on the thought of the customer as the customer's thought would reflect on the product actually and that is where you know we are referring to this understanding of persona
+
+
+![alt text](image-20.png)
+
+e.g. Amul butter
+
+> That is why I have tried to elaborate this thing in front of you so that now onwards whenever you look at a product you have the elements of characteristics of that product in terms of personality of that product and persona as your own reflection  
+> you know that is what you want to see in that product you persona reflected by that product  
+> Basically the picture which directs your thought towards the point that this product is not just something to be used. This is something part of my life  
+
+![alt text](image-21.png)
+
