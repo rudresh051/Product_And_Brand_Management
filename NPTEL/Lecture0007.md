@@ -54,3 +54,16 @@ e.g. Dantkanti came into being and actually overwhelmed the market
 ## >>> Expected Product
 
 ![alt text](image-52.png)
+
+## >>>> Augumented Product
+
+![alt text](image-53.png)
+
+## >>>>> Potential Product
+
+![alt text](image-54.png)
+
+* **What is the desire of a product manager about his products?**
+  * Large number of people use my product
+  * Taking it higher and higher in terms of perceived quality, satisfaction, loyality
+    * Base model of a product, next stage of that and another premium model of the product
