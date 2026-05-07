@@ -25,3 +25,22 @@
 ## Consumer Goods Classification
 
 ![alt text](image-60.png)
+
+## Common terms related to product
+
+![alt text](image-61.png)
+
+## Industrial-Goods Classification
+
+![alt text](image-62.png)
+
+![alt text](image-63.png)
+
+![alt text](image-64.png)
+
+# Product
+* Product acceptance
+* Product strategy and Planning
+* Product Management
+
+> I will now be initiating a discussion in my subsequent sessions on product management at the core
