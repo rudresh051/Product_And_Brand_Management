@@ -17,3 +17,11 @@
 ## Consumer-Goods Classification
 
 ![alt text](image-58.png)
+
+## Product Use
+
+![alt text](image-59.png)
+
+## Consumer Goods Classification
+
+![alt text](image-60.png)
