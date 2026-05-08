@@ -17,3 +17,18 @@
 ## Product Differentiation Aspects
 
 ![alt text](image-66.png)
+
+e.g. Tide surf hai to white hai
+
+## Performance Quality
+
+![alt text](image-67.png)
+
+![alt text](image-68.png)
+
+e.g. Tyres - That is where durability perspective comes in
+e.g. wires that don't catch fire
+
+![alt text](image-69.png)
+
+> So above are the some of the sublime in character or nature are on of the most important differentiating factors when you start using a product and when you become loyal to a product.
