@@ -18,3 +18,9 @@ e.g chair, sleep well mattresses, headphones, earphones,tooth cap, mobile cover
 ## Boeing - Case of Product Differentiation by Design
 
 ![alt text](image-72.png)
+
+## Customization
+
+![alt text](image-73.png)
+
+e.g. Pizza, burger -> can do it easily
