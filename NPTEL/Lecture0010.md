@@ -24,3 +24,11 @@ e.g chair, sleep well mattresses, headphones, earphones,tooth cap, mobile cover
 ![alt text](image-73.png)
 
 e.g. Pizza, burger -> can do it easily
+
+## Delivery
+
+![alt text](image-74.png)
+
+## Ordering Ease
+
+![alt text](image-75.png)
