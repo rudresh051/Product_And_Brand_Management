@@ -23,3 +23,9 @@ Geoffrey Moore in his book "Crossing the Chasm"
 ![alt text](image-80.png)
 
 ![alt text](image-81.png)
+
+## Four Major Positioning Errors
+
+![alt text](image-82.png)
+
+![alt text](image-83.png)
