@@ -15,3 +15,23 @@
 ![alt text](image-87.png)
 
 ![alt text](image-88.png)
+
+## How IKEA repositioned themselves?
+
+![alt text](image-89.png)
+
+## Breakaway Positioning
+
+![alt text](image-90.png)
+
+## Swatch
+
+![alt text](image-91.png)
+
+## Stealth Positioning
+
+![alt text](image-92.png)
+
+## Sony AIBO's
+
+![alt text](image-93.png)
