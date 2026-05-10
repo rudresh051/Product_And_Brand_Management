@@ -33,3 +33,15 @@ What to do..?
 ## Growth Stage
 
 ![alt text](image-106.png)
+
+## Maturity Stage
+
+![alt text](image-107.png)
+
+* The most important thing for a product manager is to forsee. forecasting is something different.  
+* **Forseeing is an art.** Because many a times despite of having all the statistical capabilities, AI associated with that, DS supporting you, having all those elements along with you and many a times decisions do not fall into right categories.
+* **I have not bee favoring the usage of the word failure**, but then I would say that those products in foreseeing has not been done so well.
+
+## Decline Stage
+
+![alt text](image-108.png)
