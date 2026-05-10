@@ -25,3 +25,11 @@ What to do..?
 ## Introduction Stage
 
 ![alt text](image-105.png)
+
+
+* Basically several kinds of technologies are enabling several kinds of products.
+* **Technology itself is a product** because it is sold to some producer, or manufacturer or the user who further uses, use it for development of products for further users and so on. 
+
+## Growth Stage
+
+![alt text](image-106.png)
