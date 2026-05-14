@@ -22,4 +22,5 @@
 
 ![alt text](image-111.png)
 
-> Organizations which are strong in terms of as far as their product mix goes, they have a total revenue which is higher and they can offset the cost of this stage in case of one product by the sales volume and the sales revenue from the other products. In totality they can manage the costs , should I say thy can sustain that
+> Organizations which are strong in terms of as far as their product mix goes, they have a total revenue which is higher and they can offset the cost of this stage in case of one product by the sales volume and the sales revenue from the other products. In totality they can manage the costs , should I say thy can sustain that  
+> 
