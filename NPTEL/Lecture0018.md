@@ -14,3 +14,7 @@
 ## Product Planning
 
 ![alt text](image-124.png)
+
+## Steps for Product Planning
+
+![alt text](image-125.png)
