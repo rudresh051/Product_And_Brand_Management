@@ -10,3 +10,7 @@
 ## Components of Marketing Plan - The Kapil Sharma Show
 
 ![alt text](image-123.png)
+
+## Product Planning
+
+![alt text](image-124.png)
