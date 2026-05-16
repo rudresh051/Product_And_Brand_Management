@@ -18,3 +18,27 @@
 ## Steps for Product Planning
 
 ![alt text](image-125.png)
+
+## Key options in market selection and product planning
+
+![alt text](image-126.png)
+
+* **What form should the product take ?**
+
+![alt text](image-127.png)
+
+* **What should the product do for the user ?**
+
+![alt text](image-128.png)
+
+* **For whom is the product most important?**
+
+![alt text](image-129.png)
+
+## Checklist : The Product Marketing Planning Process
+
+![alt text](image-130.png)
+
+![alt text](image-131.png)
+
+> Case Study - TWG Tea
