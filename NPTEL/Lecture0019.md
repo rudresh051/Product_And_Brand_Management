@@ -23,4 +23,3 @@
 * Masters in Innovation Management (MIM)
 * MBA with AI
 * MBA for home makers
-* 
