@@ -6,3 +6,7 @@
   * Expand a product Line
   * Modify a Product Line
   * Reduct/Exit a Product or Product Line
+
+## Line Stretching
+
+![alt text](image-140.png)
