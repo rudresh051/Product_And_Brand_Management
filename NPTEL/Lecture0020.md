@@ -32,3 +32,7 @@
   * The **length** of a product mix refers to the **total number of items** in the mix.
   * The **depth** of a product mix refers to how many **variants are offered of each product in the line.**
   * The **consistency** of the product mix describes how **closely related the various product lines** are in end use, production requirements, distribution channels, or some other way
+
+## Cadburys' Product Mix
+
+![alt text](image-139.png)
