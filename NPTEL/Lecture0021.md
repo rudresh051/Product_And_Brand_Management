@@ -10,3 +10,7 @@
 ## Line Stretching
 
 ![alt text](image-140.png)
+
+## Market Stretch towards Lower prices
+
+![alt text](image-141.png)
