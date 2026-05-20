@@ -14,3 +14,15 @@
 ## Market Stretch towards Lower prices
 
 ![alt text](image-141.png)
+
+## Two way Stretch
+
+![alt text](image-142.png)
+
+## Line filling
+
+![alt text](image-143.png)
+
+## Line Modification & Pruning
+
+![alt text](image-144.png)
