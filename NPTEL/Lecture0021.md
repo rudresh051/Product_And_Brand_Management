@@ -26,3 +26,9 @@
 ## Line Modification & Pruning
 
 ![alt text](image-144.png)
+
+## Decisions about intangible/augumented product
+
+![alt text](image-145.png)
+
+![alt text](image-146.png)
