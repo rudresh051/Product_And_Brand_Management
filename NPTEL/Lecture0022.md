@@ -22,3 +22,22 @@ publishers then re-released the older works, they became be
 sellers as well.
 * Maruti Suzuki—800, Desire, Hero Motors, Tmes of India
 * Can we do this for academic programs?
+
+## Goals and Objective of PPM
+
+* Align the products (both present and pipelined) with the organization's
+mission and vision.
+* Assess and analyze the place of products in the market and their
+impact on the internal business environment.
+* Eliminate the Iow-profitable and the ones not adding value from the
+portfolio.
+
+> Products are like babies, product managers they get emotionally associated with the products and it is very natural you have given your time to this product, thought and worried about this product.  
+
+* Assign and schedule resources to profit-yielding and novel, innovative
+products to help them upskill and perform better. (This must be seen
+Objectively with the perspective of the potential of a product)
+* Review and focus on improving the products or services' performance
+to keep them in-line with the ongoing demands.
+* Create a transparent work-environment and keep every stakeholder
+and decision-maker in the loop.
