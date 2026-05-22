@@ -21,3 +21,7 @@ competition aside, be profitable, stay forever.
 * Convenience—Shampoos, Pencils
 * Quality---Food like Atta
 * Performance---Mobile, Cars, Electrical Appliances
+
+## Types of Product Category
+
+![alt text](image-149.png)
