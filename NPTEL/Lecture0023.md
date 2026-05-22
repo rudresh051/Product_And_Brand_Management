@@ -55,3 +55,19 @@ product category are:
 * Sales cyclicity
 * Seasonality
 * Profits
+
+![alt text](image-151.png)
+
+![alt text](image-152.png)
+
+## Category Factors
+
+![alt text](image-153.png)
+
+## Environmental Factors
+
+Technological factors  
+Political factors  
+Economic factors  
+Regulatory factors  
+Social factors  
