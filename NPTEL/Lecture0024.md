@@ -55,6 +55,6 @@ e.g. Gandhi Gram udyog
 
 ![alt text](image-161.png)
 
-e.g. Purchasing a toothpaste
-e.g. Atta - how many times you have changed it?
+e.g. Purchasing a toothpaste  
+e.g. Atta - how many times you have changed it?  
 
