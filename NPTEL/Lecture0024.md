@@ -42,3 +42,19 @@ e.g. Gandhi Gram udyog
 ## How customers buy?
 
 ![alt text](image-158.png)
+
+## Why they prefer a product?
+
+![alt text](image-159.png)
+
+## How they respond to marketing programs?
+
+![alt text](image-160.png)
+
+## Will They Buy it (Again) ?
+
+![alt text](image-161.png)
+
+e.g. Purchasing a toothpaste
+e.g. Atta - how many times you have changed it?
+
