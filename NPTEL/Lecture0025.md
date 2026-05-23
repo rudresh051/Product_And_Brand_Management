@@ -19,3 +19,15 @@ delineated based on the degree of control that sellers have over price.
 ## Sources of Information
 
 ![alt text](image-163.png)
+
+> I told you that we must develop an art of reading, the hearts of customers. Here I would suggest develop an art, along with scientific procedures to read the minds of competitors
+
+## Forces Governing Competition
+
+![alt text](image-164.png)
+
+![alt text](image-165.png)
+
+## Should we always compete? The rules of Co-opetition
+
+![alt text](image-166.png)
