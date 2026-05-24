@@ -161,3 +161,7 @@ How to care for the product
 Nutritional information  
 Type and style of the product  
 Size and number of servings.  
+
+## Characteristics of Packaging
+
+![alt text](image-182.png)
