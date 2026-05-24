@@ -63,3 +63,101 @@ markets are generic drugs, private-label brands, and foreign markets.
 
 ## Steps in Setting Prices
 
+These are the six steps in determining a price for an item:  
+* Determine pricing objectives.
+* Study costs.
+* Estimate demand.
+* Study competition.
+* Decide on a pricing strategy.
+* Set price.
+
+### 1. Determine the Pricing Objectives
+
+What is your purpose in setting a price?  
+• Do you want to increase sales volume or sales revenue?  
+• Establish a prestigious image?  
+• Increase your market share and market position?  
+Answering these questions will help you keep your prices in line with
+other marketing decisions.
+
+### 2. Study the costs
+* Since the main reason for being in business is to make a profit,
+consider the costs involved in making or acquiring the goods or
+services you will offer for sale.
+* Determine whether and how you can reduce costs without affecting
+the quality or image of your product.
+
+### 3. Estimate Demand
+
+* Employ market research techniques to estimate consumer demand.
+* The key to pricing goods and services is to set prices at the level
+consumers expect to pay.
+* In many cases, those prices are directly related to demand.
+
+### 4. Study Competition
+
+* Investigate your competitors to see what prices they are charging
+for similar goods and services.
+* Study the market leader.
+* What is the range of prices from the ceiling price to the price floor?
+* Will you price your goods lower than, equal to, or higher than your
+competitors'?
+
+### 5. Decide on Pricing Strategy
+
+* You may decide to price your product higher than the competition's
+because you believe your product is superior.
+* You may decide to set a lower price with the understanding that you
+will raise it once the product is accepted in the marketplace.
+
+### 6. Set Price
+
+* After you have evaluated all the foregoing factors, apply the pricing
+techniques that match your strategy and set an initial price.
+* Be prepared to monitor that price and evaluate its effectiveness as
+conditions in the market change.
+
+## Common Pricing Mistakes
+* Determine costs and take traditional industry margins.
+* Failure to revise price to capitalize on market changes.
+* Setting price independently of the rest of the marketing mix.
+* Failure to vary price by product item, market segment, distribution
+channels, and purchase occasion.
+
+## Packaging
+
+![alt text](image-178.png)
+
+### Protection
+
+![alt text](image-179.png)
+
+### Containment
+
+* There is a requirement for such packaging to have dispensing and
+resealing features for fluids like milk, orange juice and hair spray.
+* Effective containment clearly involves ensuring the pack does not
+leak, fall apart or otherwise annoy the end user.
+* Caps that do not reseal properly, bags that split on opening, and
+cartons that fall apart are irritants, and they deter repeat purchases.
+
+### Identification
+
+![alt text](image-180.png)
+
+
+### Labelling
+As well as the functional requirements that the label has to perform such as
+providing information on the following:  
+
+Source of the product  
+Contents  
+How to use the product  
+Universal product code (UPC) or bar code (used by retailers and producers for price and
+inventory control purposes)  
+Warnings  
+Certifications  
+How to care for the product  
+Nutritional information  
+Type and style of the product  
+Size and number of servings.  
