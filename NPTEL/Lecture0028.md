@@ -49,3 +49,55 @@ intermediary.
 3. Intensity of distribution desired
 4. Involvement in e-commerce
 
+### 1. Multiple Channels
+
+* Some products meet the needs of both industrial and
+consumer markets. (For e.g., Fans for household and
+industrial purposes)
+* J & J Snack Foods sells its pretzels, drinks and cookies using
+multiple channels to:  
+— Supermarkets  
+— Movie Theaters  
+— Stadiums  
+— Schools  
+— Hospitals  
+
+### 2. Control vs Costs
+
+* All manufacturers and producers must weigh the control they
+want to keep over the distribution of their products against
+the costs and profitability.  
+- **Direct sales force** — company employees are expensive with payroll,
+benefits, expenses; may set sales quotas and easily monitor
+performance
+- **Agents** — work independently, running their own businesses; less
+expensive = less control; agents sell product lines that make them
+more money
+
+**Management's Desire for Control of Distribution**  
+* In general, the shorter the channel structure, the higher
+the degree of control, and vice versa.
+* The lower the intensity of distribution, the higher the
+degree of control, and vice versa.
+
+### 3. Distribution Intensity  
+* How widely a product will be distributed..?
+  * Marketers want to achieve the ideal market exposure; determining distribution patterns.
+  * **Ideal market exposure** (make their product available without overexposing and losing money)
+  * To achieve market exposure, marketers must determine **distribution intensity**
+
+
+1. **Channel intensity:** the number of intermediaries at each level of the marketing channel.  
+Exclusive Distribution  
+Selective Distribution  
+Intensive Distribution  
+
+* Intensive Distribution  
+
+* Intensive distribution mainly means distribution on a
+large-scale and displaying the product in as many ways
+and places as possible so that the customer sells in high
+volume due to large scale distribution.
+* The objective is complete market coverage, and the
+final goal is to sell to as many customers as possible.
+* Ex. FMCG products, consumer durables etc.
