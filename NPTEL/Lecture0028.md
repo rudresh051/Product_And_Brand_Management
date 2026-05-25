@@ -150,3 +150,52 @@ distributors, and retailers).
 ## Determinants of Channel Structure
 
 ![alt text](image-185.png)
+
+### Important Channel Arrangements/Decisions
+
+![alt text](image-186.png)
+
+![alt text](image-187.png)
+
+## Product Promotion
+
+* What is Promotion?
+
+Promotion is an element in an organisation's marketing
+mix that serves to inform, persuade and remind the
+market about the organisation and/or its products.
+
+## Promotion Methods
+
+![alt text](image-188.png)
+
+## The Promotional Mix
+
+![alt text](image-189.png)
+
+## Choosing the right form of Promotion
+
+* Marketers need to consider:
+The target market  
+The nature of the product  
+The stage of product life cycle  
+Money available for the promotion  
+
+## Push vs Pull Strategy
+
+**Push strategy**  
+Producer creates demand for the product  
+Aims promotional, activity to channel members  
+Each channel member promotes to next channel member  
+Demand pushed down distribution channel  
+Consumer influenced by retailers advertising  
+
+**Pull Strategy**  
+Producer creates demand for the product.  
+Aims promotional activity **directly at the consumer.**  
+Consumer demands product from retailer.  
+Demand **pulled up** the distribution channel.  
+
+![alt text](image-190.png)
+
+> Keep the pace with the discussions which we are having, keep imagining. Keep developing an art of interpretation and interconnectedness between all the elements which we have discussed  
