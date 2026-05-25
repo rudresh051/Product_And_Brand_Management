@@ -92,7 +92,7 @@ Exclusive Distribution
 Selective Distribution  
 Intensive Distribution  
 
-* Intensive Distribution  
+* **Intensive Distribution**
 
 * Intensive distribution mainly means distribution on a
 large-scale and displaying the product in as many ways
@@ -101,3 +101,52 @@ volume due to large scale distribution.
 * The objective is complete market coverage, and the
 final goal is to sell to as many customers as possible.
 * Ex. FMCG products, consumer durables etc.
+
+* **Exclusive Distribution**
+
+* Exclusive distribution is an agreement between a distributor and a
+manufacturer that the manufacturer will not sell the product to
+anyone else and will sell it only to the exclusive distributor.
+* The protected territories for distribution of a product in a given
+geographic area; business maintains tight control over a product
+* E.g., Companies like ROLEX, LAMBORGHINI, MERCEDES, BMW will
+appoint only a handful of distributors in a region and regularly enter
+exclusive distribution.
+
+* **Selective Distribution**
+
+* A limited number of outlets in a given geographical area are
+used to sell the product.
+* Very important to select channel members that maintain the
+image of the product & are good credit risks, aggressive
+marketers & good inventory planners.
+* For e.g., Armani, Gucci Brands sell their clothing only through
+top department stores that appeal to the affluent customers
+who buy its merchandise. It does not sell in a chain megastore
+or a variety store.
+
+* **Dual Distribution** 
+
+![alt text](image-184.png)
+
+### 4. Involvement in E-commerce
+
+* Means by which products are sold to customers and industrial
+buyers through the Internet.
+* Consumers have also become accustomed to buying products
+online.
+* One-stop shopping and substantial savings for industrial buyers.
+* E-marketplaces provide smaller businesses with the exposure that
+they could not get elsewhere.
+
+## Dimensions of Channel Design
+
+* Length of the channel. (number of levels in a distribution
+channel)
+* Intensity of various levels (Exclusive, Selective, Intensive)
+* Types of intermediaries involved (agents, wholesalers,
+distributors, and retailers).
+
+## Determinants of Channel Structure
+
+![alt text](image-185.png)
