@@ -18,3 +18,25 @@ incremental improvement, and of course seeks added value.
 * Since design thinking is focused more on radical innovation, the more experimentation the better, and quick, simple prototypes also help grasp a potential implementation well before many resources are spent in development.
 
 ![alt text](image-196.png)
+
+e.g. Veena Vadini School - Google it
+
+* **Prototypes can be concept sketches, rough physical mock-ups, or
+stories-or role playing or story boards, for a service design-and
+always include a form of visualization of concepts, which is the fourth
+criterion.**
+
+* The objective is to take the intangible to be tangible.
+* Using visual explanations also provide context, which is greatly helpful
+when the consumer is a partner in concept development.
+* **The fifth and last aspect is the importance of concurrent business
+analysis integrated during the process rather than added on later or
+used to limit creative ideations.**
+* The key is to enable integrative thinking by combining the creative
+ideas with more traditional strategic aspects.
+* This is also helpful in anticipating what new business activities may be
+required by a conceptual new product, service, or experience offering,
+as well as the resources it may require and the competitive landscape
+in which it will appear.
+
+e.g. PayTm karo
