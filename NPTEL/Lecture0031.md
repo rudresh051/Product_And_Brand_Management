@@ -62,3 +62,26 @@ society at large (inclusive design, sustainable design).
 * Usability
 * Sustainability
 
+## Decathlon : Designing Value into the Process
+
+* An award-winning Decathlon product is the **Quechua two seconds tent**, which radically reduces the time needed to erect a tent.
+* This tent can literally be thrown into the air and will open on its own before it reaches the ground.
+* The idea was to preassemble the tent's various elements (room, double roof, hoops) to simplify the camper's life as much as possible.
+* Once the tent is up, the camper has only to put six tent pegs in the ground to secure it.
+* Roomy enough for two, the two Seconds Tent is reasonably priced at 49€, offering everyone the chance to go off and camp, even if he or she has never put up a tent.
+* At the same time, it is a real tent, with all the technical features of, for instance, a coated double roof with waterproof seams and anticondensation, or breathable,
+fabric.
+
+![alt text](image-197.png)
+
+![alt text](image-198.png)
+
+Example -  
+
+![alt text](image-199.png)
+
+
+Example -  
+
+![alt text](image-200.png)
+
