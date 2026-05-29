@@ -26,4 +26,39 @@ using visualization skills); design as a process that favors a modular
 and platform architecture of product lines, user-oriented innovation
 models, and fuzzy-front-end (An Opportunity is seen, and idea is
 taken to the formal development)project management.
+* **Design as transformer:** a resource for creating new business
+opportunities; for improving the company's ability to cope
+with change; or (in the case of advanced design) as an
+expertise to better interpret the company and the
+marketplace.
+* **Design as good business:** a source of increased sales and
+better margins, more brand value, greater market share,
+better return on investment (ROI); design as a resource for
+society at large (inclusive design, sustainable design).
+
+## Principles of Design Thinking
+
+* Develop empathy for the customer.
+* Engage unique design processes.
+* Connect with corporate culture.
+* Set design strategy and policy.
+* Align business strategy and design strategy.
+* Design for innovation and transformation.
+* Design for relevance at each touchpoint.
+* Focus on the customer experience.
+* Empower creativity.
+* Be a design leader.
+
+## Ten Categories to Evaluate the Performance of Design
+
+* Purchase influence or emotion
+* Enable strategy and new markets
+* Enable product and service innovation
+* Reputation, awareness, and brand value
+* Time to market and process improvement
+* Customer satisfaction
+* Cost savings, ROI, and IP
+* Developing communities of customers
+* Usability
+* Sustainability
 
