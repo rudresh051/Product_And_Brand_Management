@@ -100,3 +100,40 @@ performing against competitors.
 Experience.
 
 ![alt text](image-206.png)
+
+## Configuration
+
+![alt text](image-207.png)
+
+## Offering
+
+![alt text](image-208.png)
+
+## Experience
+
+![alt text](image-209.png)
+
+## Overview of Product Innovation
+
+* The primary objectives of product innovation are to create
+value, to obtain a competitive advantage, and to achieve
+long-term success through the development and commercialization of new products and services.
+* The principal drivers of product innovation are customers,
+markets, stakeholders, and the other constituents in the
+business environment.
+* Product innovation focus is on meeting customers needs
+and expectations as they evolve. 
+
+Product innovation includes several essential aspects;
+
+1. Examining the needs for new products, processes, and services.
+2. Determining the proper direction and fit for new products.
+3. Establishing the appropriate game plan of the entire management
+system for developing and commercializing new products.
+4. Selecting new-product opportunities for investment.
+5. Enhancing the organizational capabilities to create successful new
+products.
+6. Creating the new product and executing the new-product
+development (NPD) program.
+
+![alt text](image-210.png)
