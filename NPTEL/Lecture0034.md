@@ -53,3 +53,39 @@ simply because they did not previously exist.
 * Moreover, **meeting the needs of the customer and offering products
 that are wanted is more important than whether a product
 represents a scientific breakthrough.**
+
+
+## Classification of new products
+
+**New-to-the-world products:** They are the first of their kind and create a new market. They are inventions that usually contain a significant development in technology, such as a new discovery, or manipulate existing technology in a very different way, leading to revolutionary new designs.
+For e.g., the internet, antibiotics, vaccines etc.,
+
+**New product lines (new to the firm):** Although not new to the marketplace, these **products are new to the particular company.** They provide an opportunity for the company to enter an established market for the first time.
+For example, Alcatel, Samsung and Sony-Ericsson have all entered the cell phone market to compete with market leaders Nokia and Motorola originators of the product.
+
+* **Additions to existing lines:** This category is a subset of new product lines above.
+The distinction is that while the company already has a line of products in this
+market, the product is significantly different from the present product offering but
+not so different that it is a new line. The distinction between this category and the
+former is one of degree.
+For example,  
+Hewlett Packard's colour ink-jet printer was an addition to its established.
+McDonald's introduced pudina flavored burgers for Indian consumers.
+* **Improvements and revisions to existing products:** These new products are
+replacements of existing products in a firm's product line.  
+For example, Hewlett-Packard's ink-jet printer has received numerous
+modifications overtime and, with each revision, performance and reliability have
+been improved.
+
+**Cost reductions:** This category of products may not be viewed as new
+from a marketing perspective, largely because they offer no new benefits
+to the consumer other than possibly reduced costs.  
+For e.g., Reliance Jio
+
+**Repositioning:** These new products are essentially the discovery of
+new applications for existing products. This has more to do with
+consumer perception and branding than technical development.  
+*Following the medical science discovery that aspirin thins blood, for
+example, the product has been repositioned from an analgesic to
+an over-the-counter remedy for blood clots and one that may help
+to prevent strokes and heart attacks.*
