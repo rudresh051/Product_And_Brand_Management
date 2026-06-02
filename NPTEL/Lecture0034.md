@@ -89,3 +89,36 @@ consumer perception and branding than technical development.
 example, the product has been repositioned from an analgesic to
 an over-the-counter remedy for blood clots and one that may help
 to prevent strokes and heart attacks.*
+
+## The New-Product Development Decision Process
+
+![alt text](image-217.png)
+
+## 1. Idea Generation
+
+![alt text](image-218.png)
+
+## 2. Idea Screening
+
+* The purpose of screening is to drop poor ideas as early as possible.
+* The rationale is that product-development costs rise substantially with
+each successive development stage.
+* Most companies require new-product ideas to be described on a
+standard form that can be reviewed by a new-product committee.
+* The executive committee then reviews each idea against a set of
+criteria.
+* As the idea moves through development, the company will constantly
+need to revise its estimate of the product's overall probability of
+success.
+
+## 3. Concept Development
+
+. Consumers do not buy product ideas; they buy product concepts.
+. A product idea can be turned into several concepts.
+. The first question is: who will use this product?
+. Second, what primary benefit should this product provide?
+. Third, when will people consume this product?
+. By answering these questions, a company can form several concept.
+. Each concept represents a category concept that defines the product's
+competition.
+. Next, the product concept has to be turned into a brand concept.
