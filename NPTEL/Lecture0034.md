@@ -111,9 +111,9 @@ criteria.
 need to revise its estimate of the product's overall probability of
 success.
 
-## 3. Concept Development
+## 3. Concept Development - A
 
-. Consumers do not buy product ideas; they buy product concepts.
+. **Consumers do not buy product ideas; they buy product concepts.**
 . A product idea can be turned into several concepts.
 . The first question is: who will use this product?
 . Second, what primary benefit should this product provide?
@@ -122,3 +122,96 @@ success.
 . Each concept represents a category concept that defines the product's
 competition.
 . Next, the product concept has to be turned into a brand concept.
+
+## 3. Concept Testing - B
+
+* Concept testing involves presenting the product concept to target
+consumers and getting their reactions.
+* The concepts can be presented symbolically or physically.
+* Visualization techniques can help respondents match their mental state
+with what might occur when they are actually evaluating or choosing
+the new product.
+* Today firms can use rapid prototyping to design products on a
+computer, and then produce plastic models of each and get reactions.
+* Companies are also using virtual reality to test product concepts.
+Virtual reality programs use computers and sensory devices (such as
+gloves or goggles) to simulate reality.
+
+## 3. Conjoint Analysis - C
+
+* Conjoint analysis is a method for deriving the utility values that
+consumers attach to varying levels of a product's attributes.
+* Respondents are shown different hypothetical product offers formed
+by combining varying levels of the attributes, then asked to rank these
+offers.
+* From this ranking, management can identify the most appealing offer
+and the least appealing offer and determine the importance level of
+each attribute.
+* Management can then estimate the market share and profit the
+company might realize from different product offers.
+
+## 4. Market Strategy Development
+
+* Following a successful concept test, the new-product manager will
+develop a preliminary strategy plan for introducing the new product
+into the market.
+* The plan consists of three parts.
+- The first part describes the target market's size, structure, and
+behavior; the planned product positioning; and the sales, market
+share, and profit goals sought in the first few years.
+- The second part outlines the planned price, distribution strategy,
+and marketing budget for the first year.
+- The third part of the marketing-strategy plan describes the long-run
+sales and profit goals, and marketing-mix strategy over time.
+
+## 5. Business Analysis
+
+* After management develops the product concept and marketing
+strategy, it can evaluate the proposal's business attractiveness.
+* Management needs to prepare sales, cost, and profit projections to
+determine whether they satisfy company objectives. If they do, the
+concept can move to the development stage. As new information
+comes in, the business analysis will undergo revision and expansion.
+* Estimating Total Sales
+* Estimating Costs and Profits
+
+## 6. Product Development
+
+* Up to now, the product has existed only as a word description, a
+drawing, or a prototype.
+* This next step involves a jump in investment that dwarfs the costs
+incurred in the earlier stages.
+* At this stage the company will determine whether the product idea can
+be translated into a technically and commercially feasible product.
+* If it cannot, the accumulated project cost will be lost except for any
+useful information gained in the process.
+
+## 7. Market Testing
+
+* After management is satisfied with functional and psychological
+performance, the product is ready to be dressed up with a brand name
+and packaging and go into a market test.
+* Market testing can yield valuable information about buyers, dealers,
+marketing program effectiveness, and market potential.
+* The main issues are: how much market testing should be done, and
+what kind(s)?
+* Market testing is influenced by-
+  - Investment cost and risk
+  - Time pressure and research cost
+
+## 8. Commercialization
+
+* Commercialization is the ultimate act of launching the product in the
+product with proper strategies and correct timing.
+* Most new-product campaigns also require a sequenced mix of market
+communication tools to build awareness, preference, choice, and
+loyalty.
+* Points to consider are-
+  - When (Timing)- First entry, Parallel entry, Late entry
+  - Where (Geographic Strategy)
+  - To Whom (Target-Market Prospects)
+  - How (Introductory Market Strategy)
+
+## Stages in Consumer Adoption Process
+
+![alt text](image-219.png)
