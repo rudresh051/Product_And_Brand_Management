@@ -68,3 +68,31 @@ academic research.
 ![alt text](image-225.png)
 
 ![alt text](image-226.png)
+
+![alt text](image-227.png)
+
+![alt text](image-228.png)
+
+## Value Co-creation
+
+1. Identify all stakeholders touched by the process (employees,
+customers, suppliers, distributors, communities).  
+2. Understand and map out current interactions among stakeholders.  
+3. Organize workshops in which stakeholders share experiences and
+imagine ways to improve them.  
+4. Build platforms to implement ideas for new interactions and to
+continue the dialogue among stakeholders to generate further ideas.  
+
+## How co-creation approach differs..?
+
+![alt text](image-229.png)
+
+## The Four Principles of Co-Creation
+* Stakeholders won't wholeheartedly participate in customer
+co-creation unless it produces value for them, too  
+* The best way to co-create value is to focus on the
+experiences of all stakeholders  
+* Stakeholders must be able to interact directly with one
+another  
+* Companies should provide platforms that allow stakeholders
+to interact and share their experiences.
