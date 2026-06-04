@@ -34,3 +34,21 @@ boundaries.
 * Coincidences,
 * Curiosity and
 * Creative Desperation.
+
+Source - Source: Klein, G. (2013). Seeing what others don't: The remarkable ways we gain insights. Public Affairs.
+
+## Reflexivity : Key words
+
+**Reflective thinking** is thinking about the process and parts of our research
+systematically, in depth, seeking multiple and alternative perspectives.
+
+**Reflexivity** is a state of thinking and being in which, we strive to
+understand 'the ways in which one's own presence and perspective
+influence the knowledge and actions which are created' (Fook in Bolton
+2009: 14).  
+
+**Critical reflexivity** has a sociological and political edge; it is concerned with
+the social conditions of truth itself, and with problems of power in
+academic research.
+
+![alt text](image-222.png)
