@@ -52,3 +52,19 @@ the social conditions of truth itself, and with problems of power in
 academic research.
 
 ![alt text](image-222.png)
+
+![alt text](image-223.png)
+
+## Specific Objectives
+
+1. Development of the Improved version of a manually operated Briquetting Machine.  
+2. Installation of Briquetting machine in the field.  
+3. Production of Pine Briquettes in the field by beneficiaries.  
+4. Developing value chain for above product.  
+5. Deployment of IT enabled system. (Mobile Application)  
+
+![alt text](image-224.png)
+
+![alt text](image-225.png)
+
+![alt text](image-226.png)
