@@ -54,3 +54,28 @@ Brand Resonance Model, Brand Value Chain)
 ### Positioning Definitions (Battle of the mind)
 
 ![alt text](image-244.png)
+
+### Added-Value Definitions
+
+![alt text](image-245.png)
+
+### Image Definitions
+
+![alt text](image-246.png)
+
+![alt text](image-247.png)
+
+### Personality Definitions
+
+![alt text](image-248.png)
+
+### Where to from here?
+
+* Each of the six categories of brand definitions add something to the
+understanding of the concept.
+* Each, in some way, lends itself to at least one aspect of brand
+management such as strategy formulation, creative execution, market
+research or targeting.
+* To bring these strands together, a brand management checklist system
+has been put together based upon what the authors regard as a more
+all-embracing definition of a brand.
