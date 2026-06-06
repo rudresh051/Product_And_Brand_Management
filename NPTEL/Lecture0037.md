@@ -32,9 +32,26 @@ evident in all the stages.
 * The key to branding is that consumers perceive differences among brands in a product category.
 * Basic Commodity- a product so basic that it cannot be physically differentiated from competitors in the minds of consumers.
 * Can you Brand a commodity? HOW?
-* Soap- Dove, Fiama Di Wills, Lux
-* Salt- Tata- Desh ka Namak, Catch
-* Aata (Flour)- Aashirvaad, Patanjali
-* Milk- Amul- Amul Dudh Peeta hai India, Mother dairy
-* Diamond- De Beers Group - "A Diamond Is Forever",
-* Nakshatra Diamonds- Heera hai sada ke liye”
+* **Soap**- Dove, Fiama Di Wills, Lux
+* **Salt**- Tata- Desh ka Namak, Catch
+* **Aata (Flour)**- Aashirvaad, Patanjali
+* **Milk**- Amul- Amul Dudh Peeta hai India, Mother dairy
+* **Diamond**- De Beers Group - "A Diamond Is Forever",
+* **Nakshatra Diamonds**- Heera hai sada ke liye”
+* **High-Tech Technology**- Infosys, Google, Boeing
+* **Services**- Taj hotel, Accenture, TCS, Uber, Netflix, Adobe
+* **People**- Amitabh Bachhan, Sachin Tendulkar, Sanjeev Kapoor
+* **Organizations**- UNICEF, WHO, FIFA
+* **Sports, art and Entertainment**- Harry Potter, Bahubali, Cricket
+* **Geographic Locations**- 'Aamchi Mumbai', Kerala- God's own Country, Incredible India, New Zealand's marketing in relation to The Lord of the Rings movie franchise.
+* **Ideas and Causes**- Education, freedom, social, justice, health etc.
+
+## What is BRAND?
+
+![alt text](image-236.png)
+
+![alt text](image-237.png)
+
+
+
+
