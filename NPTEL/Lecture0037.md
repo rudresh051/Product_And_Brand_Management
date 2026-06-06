@@ -53,5 +53,18 @@ evident in all the stages.
 ![alt text](image-237.png)
 
 
+**Prominence** means the state of being important, well-known, or easily noticed.
+
+Examples:  
+The scientist gained prominence after her groundbreaking discovery.  
+→ She became well-known and respected.  
+The mountain's prominence makes it visible from miles away.  
+→ It stands out because of its height.  
+The company rose to prominence in the tech industry.  
+→ It became influential and important.  
+
+
+
+
 
 

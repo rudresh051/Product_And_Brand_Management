@@ -22,3 +22,35 @@ Brand Resonance Model, Brand Value Chain)
 - Designing and implementing brand marketing programs
 - Measuring and interpreting brand performance
 - Growing and sustaining brand equity (Brand architecture)
+
+
+![alt text](image-240.png)
+
+## Branding Challenges and Opportunities
+
+. Unparalleled Access to Information and New Technologies  
+. Downward Pressure on Prices  
+. Ubiquitous Connectivity and Consumer Backlash  
+. Sharing Information and Goods  
+. Unexpected Sources of Competition  
+. Disintermediation and Reintermediation  
+. Alternative Sources of Information about Product Quality  
+. Winner-Takes-All Markets  
+. Media Transformation  
+. Customer Centricity  
+
+## Different Outlooks of "Brand"
+
+![alt text](image-241.png)
+
+### Visual Definitions (Name and visual aspects)
+
+![alt text](image-242.png)
+
+### Perceptual Definitions (consitituent parts of brand)
+
+![alt text](image-243.png)
+
+### Positioning Definitions (Battle of the mind)
+
+![alt text](image-244.png)
