@@ -39,3 +39,19 @@ knowledge exists in consumer memory.
 ## Dimensions of Brand Knowledge
 
 ![alt text](image-261.png)
+
+## Brand Awareness
+
+The strength of the brand node or trace in memory, which we can measure as
+the consumer's ability to identify the brand under different conditions.  
+
+Brand awareness consists of brand recognition and brand recall performance:  
+
+* **Brand recognition** is consumers' ability to confirm prior exposure to
+the brand when given the brand as a cue. (ability to recognize the
+brand at a store which they have already been exposed)  
+For example,  
+1. Without reading the name, a customer can identify the brand as McDonalds
+because it is highly recognizable "M" logo owing to extensive promotions and
+customer exposure.
+2. A half-eaten Apple logo helps customer recognize it as "Apple" company.
