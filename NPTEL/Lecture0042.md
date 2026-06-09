@@ -34,11 +34,57 @@ how it relates to their self-concept) For e.g., PUMA, ADIDAS, MONTE CARLO, USPA,
 them points (high) on brand image.
 * The slogan **"Just Do It"** is one of the most well associated slogans across
 brands giving them an edge over others.
-* The moment customers start remembering these minute details about your
-brand is when the realization happens that they have started associating
-themselves with the brand on a personal level.
-* Nike's association with Michael Jordan, the basketball legend led to it's
-uber positive branding and hence greater brand knowledge.
-* Nike's innovative way of collaborations with celebrities led to greater
+* The moment **customers start remembering** these minute details about your
+brand is when the realization happens that they have **started associating**
+themselves with the **brand on a personal level.**
+* **Nike's association with Michael Jordan**, the basketball legend led to it's
+uber **positive branding** and hence greater **brand knowledge**.
+* Nike's **innovative way of collaborations with celebrities** led to greater
 brand identity and hence a better hold on brand knowledge by its customers.
 Source: https://www.nike.com/in/
+
+## Brand Positioning
+
+* Brand positioning is the "act of designing the company's offer and
+image so that it occupies a distinct and valued place in the target
+customer's minds."
+* Finding the proper "location" in the minds of consumers or market
+segment.
+* Allows consumers to think about a product or service in the "right"
+perspective.
+* For E.g., Lifebuoy occupies the hygiene slot.
+Mysore Sandal the pure and natural fragrance slot.
+Medi mix occupies the herbal slot
+* The concept of brand positioning is also related to that of the brand
+value proposition. Even though both terms refer to the market value
+created by the brand, they vary in scope.
+* A **brand's value proposition** defines all benefits associated with a given
+brand, including the less important benefits.
+* In contrast, a brand's positioning focuses largely on those brand
+benefits that define the most relevant and distinct aspect of the brand.
+
+## Types of Brand Positioning
+
+* Brand's positioning is identifying the reference point against which target
+customers will evaluate the benefits of the brand.
+* Based on the choice of a reference point, a brand can be positioned using
+four different frames of reference:
+1. **Need-based framing** directly links the brand to a particular customer need.
+For e.g., Walmart positions its brand on savings to appeal everyday low
+prices/ Save money live better.
+2. **Category-based framing** defines the offering by relating it to an already
+established product category. For e.g., BMW's positioning as The ultimate
+driving machine defines its offerings relative to the automobile category.
+3. **Competitive framing** defines the offering by explicitly contrasting it to
+competitors' brands and highlighting those aspects of the offering that
+differentiate it from the competition.  
+*For e.g., Apple defined the value proposition of its Mac computers relative to
+their Competitors.*
+4. **Product-line framing** defines a brand by comparing it to other brands in the
+company's product line. Rather than comparing its brand to the
+competition, a company pits its own brands against one another-a brand
+positioning strategy often used by market leaders seeking to nudge their
+customers to upgrade.
+*For example, Procter & Gamble positioned the Gillette Fusion brand as a
+superior option to its predecessor, Gillette Mach3, in order to highlight the
+differences between the two offerings.*
