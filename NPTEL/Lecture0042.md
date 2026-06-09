@@ -125,3 +125,36 @@ customers.
 For example,  
 Tide, and Samsung do not compete with one another even though
 they might target the same customers.
+* Brand competition is not limited to the brands in the same product
+category; brands can compete across product categories as long as
+they aim to fulfill the same need of the same target customers.
+* Brand competition can be explicit and involve direct cross-brand
+comparisons, as in the case of McDonalds and Burger King, Coca-Cola
+and Pepsi or it can be implicit, without involving direct comparisons,
+as in the Dominoz's Pizza and Burger King, Coco Cola and Frooti.
+
+## Points-of-Parity and Points-of-Difference
+
+* Points-of-difference associations
+* Points-of-parity associations
+* Points-of-parity versus points-of-difference
+
+## Point of Parity Association 
+
+![alt text](image-267.png)
+
+![alt text](image-268.png)
+
+* A brand can "break-even" in those areas where their competitors are
+trying to find an advantage and can achieve advantages in some other
+areas the brand should be strong - and perhaps - unbeatable competition.
+
+## Point of Difference Associations
+
+· Saffola - 98% Fat free  
+· Asian Paints - Computerised Shade cards  
+· Scotch Brite - Scribe with sponge & Coir  
+· Maggi - Food ready in 2 minutes  
+. CEAT Tyres - Tough  
+· Maruti Service - After sales service  
+· Gillette - Double edged Blade  
