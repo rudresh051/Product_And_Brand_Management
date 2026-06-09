@@ -88,3 +88,40 @@ customers to upgrade.
 *For example, Procter & Gamble positioned the Gillette Fusion brand as a
 superior option to its predecessor, Gillette Mach3, in order to highlight the
 differences between the two offerings.*
+
+## Identifying and Establishing Brand Positioning
+
+![alt text](image-266.png)
+
+## Segmentation
+* **Market segmentation:** Divides the market into distinct groups of
+homogeneous consumers who have similar needs and consumer
+behaviour.
+* Involves identifying segmentation bases and criteria.
+* **Consumer Segmentation Bases:** Behavioural, Demographic,
+Psychographic, Geographic etc.
+* **Business-to-Business Segmentation Bases:** Nature of Good, Buying
+Condition Demographic etc.
+
+## Target Market
+
+A target market is a particular portion of the total
+population which is identified (i.e., targeted) by the
+marketer or retailer to be the most likely to purchase
+its products or services.[1][2]
+
+Source:   
+1^ American Marketing Association, AMA Dictionary.  
+2^ Nielsen Media Research. Glossary of Media Terms.
+
+## Nature of Competition
+
+* The choice of target customers also defines a company's competitors,
+whose brands aim to fulfill the same need of the same target
+customers.
+* Brand competition is defined based on the needs a brand aims to fulfill,
+not merely based on the fact that competitive brands share the same
+customers.
+For example,  
+Tide, and Samsung do not compete with one another even though
+they might target the same customers.
