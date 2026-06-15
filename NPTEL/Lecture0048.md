@@ -93,3 +93,32 @@ An Airlines
 Panchi Petha  
 Booking.com  
 Makemytrip  
+
+## PRODUCT STRATEGY
+* The product itself is the primary determinant of what consumers
+experience with a brand, what they hear about a brand from others,
+and what the firm can tell customers about the brand.
+* At the heart of a great brand is invariably a great product.
+* For brand loyalty to exist, consumers' experiences with the product
+must at least meet, if not surpass, their expectations.
+* It will be based on :
+  * Perceived Quality
+  * After marketing
+
+![alt text](image-299.png)
+
+## Pricing Strategy
+
+* Pricing policies are about maintaining and improving brand equity, and
+decisions about them must be consistent with company values.
+* Determining the "right" minimum prices is an art form that takes into
+account brand positioning and goals, resellers' margin needs, and the
+competitive environment.
+* Prices set too high will discourage sales, while those that are too low
+leave money on the table and can harm a brand's valued resellers by
+allowing unhealthy discounts.
+* Brands must justify their price point for sustainable growth.
+* There are different kinds of price perceptions that consumers might form, and different pricing strategies that the firm might
+adopt to build brand equity.
+  * Consumer Price Perceptions
+  * Setting Prices to Build Brand Equity
