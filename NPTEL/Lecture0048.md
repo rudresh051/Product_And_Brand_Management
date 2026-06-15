@@ -122,3 +122,18 @@ allowing unhealthy discounts.
 adopt to build brand equity.
   * Consumer Price Perceptions
   * Setting Prices to Build Brand Equity
+
+![alt text](image-300.png)
+
+## Channel Strategy
+
+* The manner by which a product is sold or distributed can have a
+profound impact on the equity and ultimate sales success of a brand.
+* Channel strategy includes the design and management of
+intermediaries such as wholesalers, distributors, brokers, and
+retailers.
+* In number of ways channel strategy can contribute to brand equity.
+  * Channel Design
+  * Indirect Channels
+  * Direct Channels
+  * Online Strategies
