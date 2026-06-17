@@ -50,5 +50,15 @@ Activities that are useful for brand exploratory are :
 2. Interviewing relevant personnel to get some insight.
 3. Do qualitative and quantitave research for the wide range
 
+## Brand Audit : Amazon
+
+**Brand inventory**  
+* Product : A variety of product classifications (Amazon Basic, Amazon Studios, Amazon Fresh, Amazon Kindle, Amazon warehouse, Amazon Prime, Amazon Student, Amazon Mom, One Click Service, Amazon Cloud Drive, Amazon Instant Video, Amazon App Store, Amazon Cloud Player, Amazon MP3, Amazon.com Rewards, Amazon Payments, Private label, Amazon Web Services,
+Amazon Entrepreneur Store, Amazon Prime Air, Amazon Mayday, Amazon Publisher)
+* Pricing : Amazon uses the "value pricing strategy" which is known as the every-day low pricing.
+* Distribution : Online Channel: Significant cost benefit over other traditional distribution channels (Virtual delivery channel: Kindle, AmazonMP3 & Cloud Player, Amazon Cloud drive)
+  * Physical Channel: Half million square feet storage capacity in distribution centers
+  * Amazon's Next-Day and Same-Day Guaranteed delivery services
+  * 34 fulfilment centers with more than 61 million cubic feet of storage capacity.
 
 
