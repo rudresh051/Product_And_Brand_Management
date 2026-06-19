@@ -53,12 +53,46 @@ Activities that are useful for brand exploratory are :
 ## Brand Audit : Amazon
 
 **Brand inventory**  
-* Product : A variety of product classifications (Amazon Basic, Amazon Studios, Amazon Fresh, Amazon Kindle, Amazon warehouse, Amazon Prime, Amazon Student, Amazon Mom, One Click Service, Amazon Cloud Drive, Amazon Instant Video, Amazon App Store, Amazon Cloud Player, Amazon MP3, Amazon.com Rewards, Amazon Payments, Private label, Amazon Web Services,
+* **Product** : A variety of product classifications (Amazon Basic, Amazon Studios, Amazon Fresh, Amazon Kindle, Amazon warehouse, Amazon Prime, Amazon Student, Amazon Mom, One Click Service, Amazon Cloud Drive, Amazon Instant Video, Amazon App Store, Amazon Cloud Player, Amazon MP3, Amazon.com Rewards, Amazon Payments, Private label, Amazon Web Services,
 Amazon Entrepreneur Store, Amazon Prime Air, Amazon Mayday, Amazon Publisher)
-* Pricing : Amazon uses the "value pricing strategy" which is known as the every-day low pricing.
-* Distribution : Online Channel: Significant cost benefit over other traditional distribution channels (Virtual delivery channel: Kindle, AmazonMP3 & Cloud Player, Amazon Cloud drive)
+* **Pricing** : Amazon uses the "value pricing strategy" which is known as the every-day low pricing.
+* **Distribution** : Online Channel: Significant cost benefit over other traditional distribution channels (Virtual delivery channel: Kindle, AmazonMP3 & Cloud Player, Amazon Cloud drive)
   * Physical Channel: Half million square feet storage capacity in distribution centers
   * Amazon's Next-Day and Same-Day Guaranteed delivery services
   * 34 fulfilment centers with more than 61 million cubic feet of storage capacity.
+
+
+Link - https://www.aboutamazon.com.au/news/innovation/a-passon-for-inventing
+
+![alt text](image-307.png)
+
+
+**Brand Exploratory:**. 
+  * Customer-centric online retailer in the world.
+  * "Reliable, secure, trustworthy, customer-centric, fast, convenient with variety"
+  * Amazon's brand resonance pyramid is well structured, and that there is a great
+level of correlation between the rational side and the emotional side.
+  * A very wide offering of products and multiple brand extensions place Amazon
+competitively in industries involving web & data services (B2B, B2C), consumer
+technology, multimedia hosting and streaming, booksellers, catalog-based retail,
+and more.
+
+## Objectives of Brand Research
+
+Brand research aims to identify the processes by which brands create
+value and develop a portfolio of methodologies for measuring the market
+impact of a brand.  
+Major objectives of Brand Research are:  
+1. Assess customer perception about brand  
+2. Assess brand health
+3. Assess brand competition
+4. Assess brand potentials
+5. Assess market opportunities
+6. Evaluate brand innovation
+
+> Also I tried to mention on that you if you want to understand that how to reach to heart of someone especially customers then definitely you must understand a reflexive approach, reflexive research approach. 
+
+
+
 
 
