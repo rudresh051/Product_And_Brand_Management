@@ -92,6 +92,10 @@ Major objectives of Brand Research are:
 
 > Also I tried to mention on that you if you want to understand that how to reach to heart of someone especially customers then definitely you must understand a reflexive approach, reflexive research approach. 
 
+## Brand Research Techniques
+
+![alt text](image-308.png)
+
 
 
 
