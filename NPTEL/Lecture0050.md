@@ -96,7 +96,28 @@ Major objectives of Brand Research are:
 
 ![alt text](image-308.png)
 
+## Qualitative Research Techniques : Free Associations
 
+* Its is a powerful way to profile brand associations, in which subjects are
+asked what comes to mind when they think of the brand, without any more
+specific probe or cue than perhaps the associated product category.
+* For e.g.,
+  * What comes to their mind when they think about the brand or the
+associated product category
+* Help form a rough mental map for the brand.
+* Indicate the relative strength, favourability, and uniqueness of brand
+associations
 
+## Qualitative Research Techniques : Projective Techniques
 
+* **Projective techniques** are unstructured, indirect forms of questioning
+encourage respondents to project their underlying motivations, beliefs,
+attitudes or feelings regarding the issues of concern.
+* Consumers usually see an incomplete stimulus (e.g., a sentence) and
+are asked to complete it. Alternatively, they see an ambiguous stimulus
+and are asked to make sense of it. There are three types of projective
+techniques:
+  * Association techniques
+  * Construction techniques
+  * Expressive techniques
 
