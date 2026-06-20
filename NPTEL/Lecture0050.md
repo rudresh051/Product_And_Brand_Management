@@ -121,3 +121,30 @@ techniques:
   * Construction techniques
   * Expressive techniques
 
+
+### 1. Projecive Techniques : Association techniques
+
+![alt text](image-309.png)
+
+### 2. Projective Techniques : Construction Techniques
+
+![alt text](image-310.png)
+
+### 3. Projective Techniques : Expressive Techniques
+
+The respondents see a verbal or visual situation and are asked to
+relate the feelings and attitudes of other people to the situation.
+* **Role-playing:** Respondents are asked to play the role or to assume
+the behavior of someone else.
+* **Third-person techniques:** Respondents are presented with a verbal
+or visual situation and are asked to relate the beliefs and attitudes
+of a third person rather than directly expressing personal beliefs
+and attitudes. This person can be entirely hypothetical.
+(e.g., "Imagine that a Martian visits a Nike store. What would he tell
+his friends when he goes back home?").
+
+## Qualitative Research Techniques : Zaltman Metaphor Elicitation Techniques (ZMET)
+
+![alt text](image-311.png)
+
+
