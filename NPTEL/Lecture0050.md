@@ -147,4 +147,44 @@ his friends when he goes back home?").
 
 ![alt text](image-311.png)
 
+## Qualitative Research Techniques : Zaltman Metaphor Elicitation Techniques (ZMET)
 
+* Laddering methods are a useful way to elicit the higher-order benefits
+and values offered by the brand beyond immediate product-, user- or
+usage-related attributes.
+* It works by asking consumers to explain why the first elicited
+associations (e.g., a product attribute) are important for them (thus
+eliciting the benefits) and then why these benefits are important (thus
+eliciting terminal values).
+
+## Qualitative Research Techniques : Neural Research Methods
+
+* Neuromarketing is the study of how the brain responds to marketing
+stimuli, including brands.
+* For example, some firms are applying sophisticated techniques such as
+**EEG (elector encephalograph)** technology to monitor brain activity and
+better gauge consumer responses to marketing. 
+* It has been used to measure the type of emotional response
+consumers exhibit when presented with marketing stimuli.
+* Frito-Lay hired neuromarketing firm NeuroFocus to study how
+consumers responded to their Cheetos cheese-flavored snack.
+
+## Qualitative Research Techniques : Brand Personality & Values
+
+![alt text](image-312.png)
+
+## Qualitative Research Techniques : Brand Awareness
+
+![alt text](image-313.png)
+
+## Qualitative Research Techniques : Brand Image
+
+![alt text](image-314.png)
+
+## Qualitative Research Techniques : Brand Responses
+
+![alt text](image-315.png)
+
+## Qualitative Research Techniques : Brand Relationships
+
+![alt text](image-316.png)
