@@ -20,9 +20,14 @@ articulating vision
 
 ## Volkswagan Brand Architecture
 
-* Goal - "to offer attractive, safe and environmentally sound vehicles which can compete in an increasingly tough market and set world
+* **Goal** - "to offer attractive, safe and environmentally sound vehicles which can compete in an increasingly tough market and set world
 standards in their respective class."
-* Vision- "to make this world a mobile, sustainable place with access to all the citizens."
-* Core values- "accountability, teamwork, servant's attitude, and
+* **Vision**- "to make this world a mobile, sustainable place with access to all the citizens."
+* **Core values**- "accountability, teamwork, servant's attitude, and
 integrity."
-* The guiding principle: The development of sustainable, connected, safe and tailored mobility solutions for future generations.
+* **The guiding principle:** The development of sustainable, connected, safe and tailored mobility solutions for future generations.
+
+* **New Group strategy** "NEW AUTO - Mobility for Generations to Come"- The Volkswagen Group will be a significant driver of this transformation and accelerate its realignment from vehicle manufacturer to a leading,
+global software-driven mobility provider.
+* **Alignment** - The Volkswagen Group is rigorously realigning itself and building up the new competencies. In addition to software development and the capability for autonomous driving, this also applies to areas such
+as battery technology, battery recycling, charging infrastructure and mobility services.
