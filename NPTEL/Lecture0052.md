@@ -31,3 +31,17 @@ integrity."
 global software-driven mobility provider.
 * **Alignment** - The Volkswagen Group is rigorously realigning itself and building up the new competencies. In addition to software development and the capability for autonomous driving, this also applies to areas such
 as battery technology, battery recycling, charging infrastructure and mobility services.
+
+![alt text](image-318.png)
+
+## The Brand-Product Matrix
+
+![alt text](image-319.png)
+
+![alt text](image-320.png)
+
+## Category
+
+* The rows of the matrix represent **brand-product relationships.**
+* They capture the firm's brand-extension strategy in terms of the number and nature of products sold under its different brands.
+* A **brand line** consists of all products-original as well as line and category extensions-sold under a particular brand. Thus, a brand line is one row of the matrix. (Note: A product line may include different brands, or a single-family brand or individual brand that has been line extended.) E.g., SOFT DRINKS, JEWELLERY, SKIN CARE, DENTAL CARE
