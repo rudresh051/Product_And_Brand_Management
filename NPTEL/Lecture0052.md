@@ -45,3 +45,11 @@ as battery technology, battery recycling, charging infrastructure and mobility s
 * The rows of the matrix represent **brand-product relationships.**
 * They capture the firm's brand-extension strategy in terms of the number and nature of products sold under its different brands.
 * A **brand line** consists of all products-original as well as line and category extensions-sold under a particular brand. Thus, a brand line is one row of the matrix. (Note: A product line may include different brands, or a single-family brand or individual brand that has been line extended.) E.g., SOFT DRINKS, JEWELLERY, SKIN CARE, DENTAL CARE
+* We want to judge a potential new product extension for a brand on how effectively it leverages existing brand equity from the parent brand to the new product, as well as how effectively the extension, in turn, contributes to the equity of the parent brand.
+* Given that product policy has been set for a firm in terms of product boundaries (i.e., appropriate product categories and product lines), then the proper branding strategy must be decided upon in terms of which brand elements should be used for which products.
+* Decisions must be made as to which products to attach to any one brand as well as how many brands to support in any one product category.
+* The former decision concerns brand extensions; the latter decision concerns brand portfolios.
+* The **columns** of the matrix represent **product-brand relationships.**
+* They capture the brand portfolio strategy in terms of the number and nature of brands to be marketed in each product category.
+* The **brand portfolio** is the set of all brands and brand lines that a particular firm offers for sale to buyers in a particular category.
+* Thus, a brand portfolio is one column of the matrix. Marketers design and market different brands to appeal to different market segments.
