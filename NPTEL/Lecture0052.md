@@ -53,3 +53,24 @@ as battery technology, battery recycling, charging infrastructure and mobility s
 * They capture the brand portfolio strategy in terms of the number and nature of brands to be marketed in each product category.
 * The **brand portfolio** is the set of all brands and brand lines that a particular firm offers for sale to buyers in a particular category.
 * Thus, a brand portfolio is one column of the matrix. Marketers design and market different brands to appeal to different market segments.
+
+## Brand Portfolios
+
+* A **brand portfolio** includes all brands sold by a company in a product
+category.
+* Brands can play a number of specific **roles** as part of a brand portfolio
+  * To attract a particular market segment not currently being covered by other brands of the firm.
+  * To serve as a flanker and protect flagship brands.
+  * To serve as a cash cow and be milked for profits.
+  * To serve as a low-end entry-level product to attract new customers to the brand franchise.
+
+* To serve as a high-end prestige product to add prestige and
+credibility to the entire brand portfolio.
+* To increase shelf presence and retailer dependence in the store.
+* To attract consumers seeking variety who may otherwise have
+switched to another brand.
+* To increase internal competition within the firm.
+* To yield economies of scale in advertising, sales, merchandising, and
+physical distribution.
+
+![alt text](image-321.png)
