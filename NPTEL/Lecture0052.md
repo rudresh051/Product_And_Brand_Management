@@ -74,3 +74,8 @@ switched to another brand.
 physical distribution.
 
 ![alt text](image-321.png)
+
+![alt text](image-322.png)
+
+
+![alt text](image-323.png)
