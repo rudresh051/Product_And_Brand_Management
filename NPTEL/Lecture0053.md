@@ -44,3 +44,70 @@ examine consumer response based on changes in the marketing program.
 
 * Conjoint analysis is a **survey-based multivariate technique** that enables marketers to profile the consumer decision process concerning products and brands.
 * Specifically, by asking consumers to express preferences or choose among a number of carefully designed product profiles, researchers can determine the trade-offs consumers are making between various brand attributes, and the importance they are attaching to them.
+
+### Conjoint Analysis - "Courtyard by Marriott"
+
+* Marriott used conjoint analysis to design a new hotel chain.
+* The study provided specific guidelines for selecting target market
+segments, positioning services, and designing an improved facility in
+terms of physical layout and services.
+* Based on these strategy and design recommendations, Marriott
+developed the "Courtyard by Marriott" concept, which it has successfully
+test marketed and subsequently introduced nationally.
+* The effectiveness of the study and associated processes also changed
+Marriott's approach to new product development.
+* Marriott has since developed additional lodging and related products
+successfully using similar procedures.
+* A questionnaire was designed to question respondents on characteristics
+they prefer in hotels.
+* Each respondent was given seven cards, one at a time.
+* Each card dealt with one of the seven facets (sets of attributes) of hotel
+facilities- External factors, **rooms**, food, lounge, services, leisure,
+security.
+* For each card there was one facet which had their own attributes with
+corresponding price. For example, in the case of entertainment
+(attribute of Rooms), the five levels range from color TV at no extra cost
+to color TV with a choice of three in-room movies for $2.50.
+* The respondents were asked to think about their usual hotel stay (for
+business purposes or pleasure) and to check the triangle in each row
+that best described the hotel they currently used.
+* Next, the respondents supplied one of three possible responses to each
+amenity-price combination:
+  * The combination is completely unacceptable
+  * The combination is most preferred
+  * The combination is acceptable.
+* Respondents were also asked to rank the various factors within the facet
+on their relative importance.
+
+## Holistic Methods
+
+* Holistic methods place an overall value on the brand in either abstract
+utility terms or concrete financial terms.
+* Holistic methods attempt to "net out" various considerations to
+determine the unique contribution of the brand.
+* It can be seen with two perspectives:
+  * The **residual approach**
+  * The **valuation approach**
+
+### Residual Approach
+
+* The rationale behind residual approaches is the view that brand equity is
+what remains of consumer preferences and choices after we subtract
+physical product effects.
+* The idea is that we can infer the relative valuation of brands by
+observing consumer preferences and choices if we take into account as
+many sources of measured attribute values as possible.
+
+## Valuation Approach
+
+* A widely held belief is that much of the corporate value of many companies
+are wrapped up in the value of their brands.
+* In determining the value of a brand, firms can choose from three main
+approaches: the cost, market, and income approaches.
+* The **cost approach** maintains that brand equity is the amount of money
+that would be required to reproduce or replace the brand (including all
+costs for research and development, test marketing, advertising, etc.).
+* As per the **market approach**, brand equity as the present value of the
+future economic benefits to be derived by the owner of the asset.
+* The **income approach** argues that brand equity is the discounted future
+cash flow from the future earnings stream for the brand.
