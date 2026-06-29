@@ -179,3 +179,73 @@ consumption if you look at maturity, but if you
 look at life cycle of a brand with the elements
 associated.
 ```
+
+![alt text](image-386.png)
+
+```txt
+People who actually do not you know want that name to be
+resonating in their minds in due course of time or let's say people
+have people are sort of, you know, they have stopped talking about
+this. they are not not aspirational in terms of actually
+going towards that kind of A brand. They are not discussing that
+somehow. Then there is a stagnation which is coming out and when
+it is fading away from the memory of people, it is actually going
+away from their discussions. It is actually vanishing away from the
+slightest of the discussion. Then somehow we may say that brand is
+no more there. It happens but in many, many cases it takes lot of
+time. So if there is a lot of time between these two stages.
+And if the number of people who remember a brand at the growth!
+stage is almost similar at with the number of people which is there
+at the declining stage, that means brand in one or the other form
+may take a rise from there depending upon what kind of marketing
+program investment multipliers or those kind of skills which are
+associated with developing or pursuing.
+
+
+Draw your attention towards for example at that particular stage
+you feel like that somehow. You know at this stage when people are
+just, you know they are just stopping on. As far as the discussion
+which was growing around brand, you know they were loving this
+and they have stopped discussing about or their attention is getting
+drawn towards something else. So here you may slightly reinforce.
+Again, if it is you know downwards from here you can think in terms
+of revitalization or here you can think in terms of repositioning or
+here you may think in terms of rebranding which can also be
+thought of here as well, which can thought of here as well basically.
+So it is you know my suggestion that we must think in terms of
+brands life cycle with the perspective of fundamentals which we
+have discussed and taking you towards you know some activities or
+actions which we have already talked about, but just drawing your
+attention towards that when we say someone wants to reinforce.
+```
+
+![alt text](image-387.png)
+
+![alt text](image-388.png)
+
+![alt text](image-389.png)
+
+![alt text](image-390.png)
+
+```txt
+If somehow we think of brand in terms of
+brand life cycle, the point is that brands
+probably they never die means.
+They live for a very, very, very, very long time
+because if you look at Zoom, Netflix, Tesla
+sales force, they are on a trajectory of wherein
+customers are getting attracted towards them
+and they are discussing about them, they are
+moving towards them. But in terms of
+Kellogg's, Cannon, Kodak, Nokia, things are
+stagnating or declining in terms of as far as
+the valuation and growth goes. But have, you
+know, has it vanished, has the name vanished
+from the memories of the customer? I do not
+think so. So if it is not, then definitely we can
+think in terms of revitalizing and you know,
+redeveloping the brand as such. And that is
+where, you know we must focus upon
+elements of brand knowledge which we have
+talked about the messages.
+```
