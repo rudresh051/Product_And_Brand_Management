@@ -184,3 +184,16 @@ to loyalists.
 * Apple
 * Netflix
 * Patanjali
+
+```txt
+I'll leave you with this word, loyalty, which is
+not only desire.
+While huge you know base of brand loyal
+customers and I'll, I'll leave you with this word
+loyalty which is not only desirable but if is
+gained by brands then probably many things
+you know can be subsided.
+As as far as efforts go and loyalty may drive
+the brand to an extent on its own basis by
+itself. I will be coming back to you with.
+```
