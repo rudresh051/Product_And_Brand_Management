@@ -96,3 +96,86 @@ every day on their scooters or motorbikes.
 * Visa
 
 ![alt text](image-369.png)
+
+* NIKE
+
+![alt text](image-370.png)
+
+* ADOBE
+
+![alt text](image-371.png)
+
+* 3M
+
+![alt text](image-372.png)
+
+* TOYOTA
+
+![alt text](image-373.png)
+
+* Volkswagen
+
+![alt text](image-374.png)
+
+* Burberry
+
+![alt text](image-375.png)
+
+* PHILIPS
+
+![alt text](image-376.png)
+
+* Kellog's
+
+![alt text](image-377.png)
+
+* Citi
+
+![alt text](image-378.png)
+
+* Huawei
+
+![alt text](image-379.png)
+
+* Canon
+
+![alt text](image-380.png)
+
+* Ford
+
+![alt text](image-381.png)
+
+* What should be derived as the meaning when we talk of valuation going up and down?
+
+![alt text](image-382.png)
+
+![alt text](image-383.png)
+
+![alt text](image-384.png)
+
+![alt text](image-385.png)
+
+```txt
+Basically let us assume that as soon as you
+give a name to a product, the brand comes
+into existence. Now if somehow it is, it is, it is,
+you know, you know in the existence. So it is
+going towards you know a phase of
+introduction to growth. It is just an expression
+you can put any any brand name over at this
+stage. As soon as the number of customers
+specially in terms of people who like this name
+are associated with this name is rising, the
+brand is rising. And even if you are losing on
+customers and people are aware of this brand,
+can we assume that the brand is rising.
+In terms of valuation, it might not be. In terms
+of awareness it might be and in terms of
+likability probably it might be. In terms of
+loyalty also it might be. So that is the precise
+point that life cycle in terms of brand may.
+May put up an aspect associated with reduced
+consumption if you look at maturity, but if you
+look at life cycle of a brand with the elements
+associated.
+```
