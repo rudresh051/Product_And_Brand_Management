@@ -54,3 +54,53 @@ initiatives including:
     * Roped in regional celebrities for support in developing other markets.
     * Launched variants to meet specific-need gaps in the cooling oil space.
     * Extended its core benefit to the talcum powder category with the launch of Navratna Cool Talc.
+
+
+## Royal Enfield
+
+* Classic 350
+* Meteor
+* Interceptor 650
+* Continental GT
+* Himalayan
+* Bullet
+  * Bullet 350
+  * Bullet ES
+* Apparerls
+* Motorcycle Accessories other Services and Visit their Showrooms/Outlets
+
+## Brand Extension - Advantages
+
+. Facilitate New Product Acceptance  
+. Improve brand image  
+. Reduce risk perceived by customers  
+. Increase the probability of gaining distribution and trial  
+. Increase efficiency of promotional expenditures  
+. Reduce costs of introductory and follow-up marketing programs  
+. Avoid cost of developing a new brand  
+. Allow for packaging and labeling efficiencies  
+. Permit consumer variety-seeking  
+
+## When is Variety a Bad Thing?
+
+* Today, consumers face an unprecedented number of choices.
+* Take toothpaste. A supermarket can stock over 100 varieties depending
+on brand name (Colgate, Close-up, Patanjali, Pepsodent), benefits (tartar
+control, whitening, breath freshening, sensitive gums), flavors (regular,
+mint, cinnamon, citrus), and forms (gel, paste).
+* Actually, finding the optimal choice can require much effort and result in
+inner conflict and regret.
+* Reducing the number of different items stocked does not necessarily
+adversely affect category volume, especially if the category already has a
+lot of (Stock-Keeping Units)SKUs or a few SKUs that are big sellers.
+* Research has also found that consumer perceptions of variety
+assortment depend on factors such as the similarity of items for the
+brand, the amount of allocated shelf space, and the presence of the
+consumer's favorite item.
+* Marketers and retailers can improve perceptions of product variety in a
+category or for a brand.
+* For example, organized displays have been found to be better for large
+brand assortments, whereas unorganized displays are better for small
+brand assortments. Asymmetrical assortments-in which some items for
+a brand appear more frequently than others-have also been found to
+lead to perceptions of greater assortment.
