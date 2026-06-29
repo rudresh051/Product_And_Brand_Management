@@ -91,6 +91,7 @@ be no leveraging from the brand anymore. Therefore, there should be
 a proper balance between fortifying and leveraging brands.
 
 ## Zodiac: Stretching Beyond Formals
+
 * In 1954, Zodiac received an order for importing silk fabrics into India.
 Although the buyer later decided to cancel the order, Zodiac took delivery and
 converted the fabric into neckties.
@@ -102,3 +103,19 @@ managed stores nationwide.
 * A story that began with a rejected consignment of silk fabric resulted in three distinct premium men's wear brands, thus bearing a proof to Indian
 entrepreneurship coupled with commitment to quality, clear positioning, and
 creating value.
+
+## Fine-Tuning the Supporting Marketing Program
+
+* Brand reinforcement can be done through improving product related
+performance associations and non-product related imagery
+associations.
+* **Product-Related Performance Associations.** For brands whose core
+associations are primarily product-related attributes and/or functional
+benefits, innovation in product design, manufacturing, and merchandising is
+especially critical to maintaining or enhancing brand equity. E.g., Television,
+Smartphones, Cameras, etc.,
+* **Non-Product-Related Imagery Associations:** For brands whose core
+associations are primarily non-product-related attributes and symbolic or
+experiential benefits, relevance in user and usage imagery is especially
+critical to maintaining or enhancing brand equity. E.g., TV Channels, Netflix,
+Walt Disney etc.
