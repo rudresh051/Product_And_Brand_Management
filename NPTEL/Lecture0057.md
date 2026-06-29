@@ -89,3 +89,16 @@ perception whereas, Leveraging refers to making money from a brand.
 * Failure to fortify a brand might result in brand decay and there would
 be no leveraging from the brand anymore. Therefore, there should be
 a proper balance between fortifying and leveraging brands.
+
+## Zodiac: Stretching Beyond Formals
+* In 1954, Zodiac received an order for importing silk fabrics into India.
+Although the buyer later decided to cancel the order, Zodiac took delivery and
+converted the fabric into neckties.
+* By late 1960s, Zodiac began its foray into the nascent readymade shirts
+industry.
+* Today, Zodiac is a multinational organization worth more than `300 crores. It
+is available in over 2000 multiband retailers and more than 80 company-
+managed stores nationwide.
+* A story that began with a rejected consignment of silk fabric resulted in three distinct premium men's wear brands, thus bearing a proof to Indian
+entrepreneurship coupled with commitment to quality, clear positioning, and
+creating value.
