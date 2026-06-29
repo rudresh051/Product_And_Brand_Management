@@ -87,3 +87,82 @@ customers. **(Attachments)**
 * Patanjali targets the rural market at first and uses the word-of-
 mouth publicity to good effect. The image of Baba Ramdev is used
 to reinforce the association of organic and healthy product. **(Activity)**
+
+## Marketplace conditions multiplier
+
+* Rather than going with wholesaler-distribution and retailer model, PAL has
+adopted a franchisee business model to sell its products. Patanjali
+Chikitsalayas, the health and wellness centers like Patanjali Arogya Kendras,
+non-medicine outlets like Swadeshi Kendras, along with well-known retail
+chains, general retail stores, and a huge number of exclusive retail outlets
+thousands in number across India constitute PAL's distribution channels.
+* PAL trains and certifies medical practitioners nominated by these stores. In
+return, the stores provide free consultation service to its customers by the
+certified medical practitioners. This increases the likelihood of building large-
+scale early adopters. As the stores stocks both the pharmaceutical and FMCG
+products, cross-selling happens, and the early adopters bring in additional
+footfalls through strong word-of-mouth publicity. (Channel Support)
+
+* PAL created new markets and segments of consumer. These consumers
+were interested in organic, herbal and ayurvedic products. For example,
+the growth of herbal segment of shampoo doubled to around 194
+percent in early 2016.
+* Many of the competitors also started focusing on herbal and organic
+variants. **(Competitive Reactions).**
+* PAL after initially spending less on advertisements especially on the mass
+media advertising like Television and News papers spent ₹3 billion to cater
+to growing market needs in 2015. They started working with reputed
+creative agencies like DDB Mudra and McCann while also roping in celebrities
+like wrestler Sushil Kumar and Hema Malini. **(Customer size and profile).**
+
+## Market Performance
+
+* The company sourced raw materials directly from
+farmers, which ensured better profitability and lower
+costs for consumers. [1]
+* **Market share:** Because of its rational pricing, Patanjali
+achieved a good market share operating in various
+categories, primarily honey, ghee, and ayurvedic
+medicines. [1] Dant Kanti has achieved 11 % market
+share (2018, Statista).
+* Currently (2021), PAL is making 20 percent
+operating profit which is higher than the industry
+average. (Profitability).
+* In 2016, Patanjali had entered the ranks of the
+top 10 advertisers in India. By 2017, it was the
+third largest ad spender in the country. Eighty
+percent of those ads were played on Indian news
+channels. [1]
+
+## Investor Sentiment Multiplier
+
+* The Indian FMCG sector being the fourth largest sector in the
+Indian economy has grown considerably over the past decade.
+Major FMCG companies were able to dictate the prices
+through local sourcing with a backward integration with key
+commodity suppliers or doing backward integration with the
+local suppliers. **(Market dynamics).** [1]
+* The Fast-moving consumer goods (FMCG) sector is India's
+fourth-largest sector with household and personal care
+accounting for 50% of FMCG sales in India. **(Growth
+Potential).** [2]
+
+![alt text](image-398.png)
+
+![alt text](image-399.png)
+
+![alt text](image-400.png)
+
+![alt text](image-401.png)
+
+![alt text](image-402.png)
+
+```txt
+Thank you for being with me for so long. I
+hope you have enjoyed this journey and I
+hope that you will feel benefited out of this
+discussion we have had. I will be always open
+to all the queries you would send to me and I
+will be happily, happily resolving everything
+which I am capable of. Thank you. Goodbye.
+```
